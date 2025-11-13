@@ -1,0 +1,247 @@
+.container-index{
+    display: inline-block;
+    
+}
+.container-index a{
+  vertical-align: 60px;
+   font-size: 26px;
+   font-weight: 700;
+   font-family: "ALK Rounded Mtav Med", sans-serif;
+   padding-right: 50px;
+   color:#8D81FF;
+ 
+}
+.container-index img{
+     margin: 54px  60px 44px 52px;
+     width: 223px;
+    
+}
+.date{
+    background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+    margin: 0 0 18px 52px;
+    color: #84FF81;
+    font-size: 24px;
+    font-weight: 700;
+    font: Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.month{
+    color: #8D81FF;
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+    font-size: 24px;
+    font-weight: 400px;
+    margin: 0 0 8px 52px;
+}
+.header1{
+    font-family: "ALK Rounded Mtav Med", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin: 0 0 14px 52px;
+}
+.htmlimg {
+    
+    width: 447px;
+    vertical-align: top;
+    margin: 0 66px 155px 52px;
+}
+
+.information1 {
+    display: inline-block;
+    width: 778px;
+    vertical-align: top;
+    font-family: "ALK Life", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2;
+    color: #4E6FAE;
+    
+}
+.information2{
+     display: inline-block;
+    width: 778px;
+    vertical-align: top;
+    font-family: "ALK Life", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #4E6FAE;
+}
+.laptopimg{
+    width: 447px;
+    margin: 0 0 32px 52px;
+
+}
+.information3{
+   font-family: "ALK Life", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4E6FAE;
+    margin: 0 0 145px 52px;
+    width: 1021px;
+    line-height: 1.7;
+}
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    gap: 41px;  
+    margin: 0 0 285px 52px;
+    
+}
+
+
+.line {
+    border: 1px solid #5012D5;
+    
+}
+main{
+    padding-left: 190px;
+
+}
+.htmlstructure{
+    width: 1052px;
+    margin-bottom: 120px;
+    
+}
+.newscontainer{
+    display: flex;
+    flex-direction: row;
+    gap: 41px;
+    margin: 0 0 26px 0;
+   
+}
+.newsheader1{
+ font-family: "ALK Tommaso", sans-serif;
+   font-size: 26px;
+   font-weight: 700;
+   color: #4E6FAE;
+  
+   
+
+}
+.newsheader2{
+    font-family: "ALK Tommaso", sans-serif;
+   font-size: 26px;
+   font-weight: 700;
+   color: #4E6FAE;
+   margin-bottom: 0 0 26px 0;
+   
+}
+
+.box1 {
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin: 0 50px 93px 0;
+    vertical-align: top;
+    
+}
+.box1 h3{
+     font-family: "Arial GEO BoldItalic", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #3F4145;
+    padding: 21px 170px 20px 23px;
+   
+}
+.box1 img{
+    padding: 0 37px 41px 36px;
+    
+}
+.box1 p{ 
+  font-family: "BPG Algeti Compact", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #7E8898;
+    padding: 0 0 32px 0;
+    display: inline-block;
+   vertical-align:top;
+   line-height: 1.6;
+    width: 335px;
+}
+.box2 {
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+   vertical-align: top;
+}
+.box2 h3{
+    font-family: "Arial GEO BoldItalic", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #3F4145;
+    padding: 21px 164px 15px 29px;
+   
+}
+.box2 img{
+    padding: 0 21px 35px 32px;
+    
+}
+.box2 p{ 
+    font-family: "BPG Algeti Compact", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #7E8898;
+    padding: 0 0 37px 0;
+    display: inline-block;
+    vertical-align:top;
+    width: 335px;
+    line-height: 1.6;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    gap: 41px;
+    margin: 0 0 194px 194px;
+
+}
+
+
+
+.contact-box{
+    width: 100%;
+    background-color: #E7E7E7;
+    margin: 0 0 104px 0;
+}
+.contact-information{
+    margin-right: 50px;
+    padding-left: 162px;
+    padding-top: 93px;
+    display: inline-block;
+}
+.contact-information h2{
+     margin: 0 0 27px 0;
+   color: #4E6FAE;
+   font-weight: 400;
+   font-size: 36px;
+}
+.contact-information p{
+   margin: 0 0 11px 0;
+   color: black;
+   font-weight: 400;
+   font: Helvetica Neue LT GEO;
+   font-size: 20px;
+}
+iframe{
+   display: inline-block;
+    vertical-align: top;
+    padding: 93px 0 93px 0;
+    height: 700px;
+   width: 944px;
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    gap: 41px;
+    margin: 0 0 180px 96px;
+}
+
+
+
+
